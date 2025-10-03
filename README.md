@@ -24,8 +24,8 @@
   </tr>
 </table>
 
-## 運行環境
-Ubuntu 14.04 LTS
-gcc version 4.8.4
+## 運行環境 
+Ubuntu 14.04 LTS  
+gcc version 4.8.4  
 编译标准：C99
  
