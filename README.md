@@ -13,9 +13,9 @@
 2个主要功能：磁盘块分配和磁盘块回收，以及显示磁盘块的位示图。以及製作显示、重置位示图的函数。  
 <table >
 <tr>
-  <td><img width="100%" alt="image" src="https://github.com/user-attachments/assets/0b7c513e-c1d7-4421-aad0-e91c6e1d2929" />
+  <td><img width="100%" alt="image" src="https://github.com/Jaxx9527/BlockAllocSimulation-C/blob/main/img/1.1.png" />
 </td>
-  <td><img width="100%" alt="image" src="https://github.com/user-attachments/assets/104fff26-48cc-481b-9249-ab8d1ced9092" />
+  <td><img width="100%" alt="image" src="https://github.com/Jaxx9527/BlockAllocSimulation-C/blob/main/img/1.2.png" />
 </td>
 </tr>
   <tr>
